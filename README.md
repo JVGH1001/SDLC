@@ -7,8 +7,8 @@ How do I interpret user needs and implement them into a program? How does creati
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-    Creating comprehensive documentation during the planning phase helps organize the work. I can use this as a reference to help guide me during development. I think all the agile processes are important and leaving just one out could affect the whole product's quality in the end. The information radiator most definitely will always be on my radar.
+    Creating comprehensive documentation during the planning phase helps organize the work. I can use this as a reference to help guide me during development. I think all the agile processes are important and leaving just one out could affect the whole product's quality in the end. The information radiator and burn down chart most definitely will always be on my radar.
 
 What does it mean to be a good team member in software development?
 
-    Being a good team member in software development means collaborating and communicating, usually through electronic means, but face to face is always best. Proper communicatoin promotes collaboration and ensures quality standards can be met. Any barriers should arise quickly and can be handled properly so the final outcome can be a positive one. It also means being productive and participating daily which includes being on time and attending any meeting being held.
+    Being a good team member in software development means collaborating and communicating, usually through electronic means, but face to face is always best. Proper communication promotes collaboration and ensures quality standards can be met. Any barriers should arise quickly and can be handled properly so the final outcome can be a positive one. It also means being productive and participating daily which includes being on time and attending any meetings being held.
